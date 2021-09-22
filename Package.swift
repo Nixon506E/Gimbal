@@ -14,6 +14,6 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Gimbal",
-            path: "Pods/Gimbal/Frameworks/Gimbal.framework"),
+            path: "Gimbal.xcframework"),
     ]
 )
