@@ -14,7 +14,6 @@ let package = Package(
     targets: [
         .binaryTarget(
             name: "Gimbal",
-            dependencies: [],
             path: "Pods/Gimbal/Frameworks/Gimbal.framework"),
     ]
 )
